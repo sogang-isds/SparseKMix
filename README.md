@@ -48,6 +48,6 @@ mfa validate /home/private_data/KoreanSpeech/test-clean(코퍼스 경로) korean
 korean_mfa(음향모델)
 
 mfa align /home/private_data/KoreanSpeech/test-clean(코퍼스 경로) korean_mfa(발음사전) korean_mfa(음향
-모델) /home/(user_id)/Documents/result(생성한 textgrid 파일 저장 경로) --clean
+모델) /home/(user_id)/path/to/SparseKMix/procedure/text_grid --clean
 ```
 
