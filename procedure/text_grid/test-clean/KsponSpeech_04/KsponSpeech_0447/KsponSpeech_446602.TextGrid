@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.175 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.175 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15 
+            text = "" 
+        intervals [2]:
+            xmin = 0.15 
+            xmax = 0.53 
+            text = "온수" 
+        intervals [3]:
+            xmin = 0.53 
+            xmax = 0.96 
+            text = "매트다" 
+        intervals [4]:
+            xmin = 0.96 
+            xmax = 1 
+            text = "" 
+        intervals [5]:
+            xmin = 1 
+            xmax = 1.37 
+            text = "온수" 
+        intervals [6]:
+            xmin = 1.37 
+            xmax = 1.43 
+            text = "매트" 
+        intervals [7]:
+            xmin = 1.43 
+            xmax = 2.175 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.175 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15 
+            text = "" 
+        intervals [2]:
+            xmin = 0.15 
+            xmax = 0.26 
+            text = "o" 
+        intervals [3]:
+            xmin = 0.26 
+            xmax = 0.37 
+            text = "n" 
+        intervals [4]:
+            xmin = 0.37 
+            xmax = 0.47 
+            text = "sʰ" 
+        intervals [5]:
+            xmin = 0.47 
+            xmax = 0.53 
+            text = "u" 
+        intervals [6]:
+            xmin = 0.53 
+            xmax = 0.96 
+            text = "spn" 
+        intervals [7]:
+            xmin = 0.96 
+            xmax = 1 
+            text = "" 
+        intervals [8]:
+            xmin = 1 
+            xmax = 1.11 
+            text = "o" 
+        intervals [9]:
+            xmin = 1.11 
+            xmax = 1.22 
+            text = "n" 
+        intervals [10]:
+            xmin = 1.22 
+            xmax = 1.28 
+            text = "sʰ" 
+        intervals [11]:
+            xmin = 1.28 
+            xmax = 1.37 
+            text = "u" 
+        intervals [12]:
+            xmin = 1.37 
+            xmax = 1.43 
+            text = "spn" 
+        intervals [13]:
+            xmin = 1.43 
+            xmax = 2.175 
+            text = "" 

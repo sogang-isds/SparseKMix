@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.68 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.68 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.23 
+            text = "" 
+        intervals [2]:
+            xmin = 1.23 
+            xmax = 1.33 
+            text = "왜" 
+        intervals [3]:
+            xmin = 1.33 
+            xmax = 1.4 
+            text = "" 
+        intervals [4]:
+            xmin = 1.4 
+            xmax = 1.72 
+            text = "벌써" 
+        intervals [5]:
+            xmin = 1.72 
+            xmax = 2.19 
+            text = "힘들어" 
+        intervals [6]:
+            xmin = 2.19 
+            xmax = 3.68 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 3.68 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.23 
+            text = "" 
+        intervals [2]:
+            xmin = 1.23 
+            xmax = 1.3 
+            text = "w" 
+        intervals [3]:
+            xmin = 1.3 
+            xmax = 1.33 
+            text = "eː" 
+        intervals [4]:
+            xmin = 1.33 
+            xmax = 1.4 
+            text = "" 
+        intervals [5]:
+            xmin = 1.4 
+            xmax = 1.45 
+            text = "p" 
+        intervals [6]:
+            xmin = 1.45 
+            xmax = 1.51 
+            text = "ʌ" 
+        intervals [7]:
+            xmin = 1.51 
+            xmax = 1.57 
+            text = "ɭ" 
+        intervals [8]:
+            xmin = 1.57 
+            xmax = 1.66 
+            text = "s͈" 
+        intervals [9]:
+            xmin = 1.66 
+            xmax = 1.72 
+            text = "ʌ" 
+        intervals [10]:
+            xmin = 1.72 
+            xmax = 1.79 
+            text = "ç" 
+        intervals [11]:
+            xmin = 1.79 
+            xmax = 1.83 
+            text = "i" 
+        intervals [12]:
+            xmin = 1.83 
+            xmax = 1.95 
+            text = "m" 
+        intervals [13]:
+            xmin = 1.95 
+            xmax = 1.96 
+            text = "d" 
+        intervals [14]:
+            xmin = 1.96 
+            xmax = 2.03 
+            text = "ɨ" 
+        intervals [15]:
+            xmin = 2.03 
+            xmax = 2.1 
+            text = "ɾ" 
+        intervals [16]:
+            xmin = 2.1 
+            xmax = 2.19 
+            text = "ʌ" 
+        intervals [17]:
+            xmin = 2.19 
+            xmax = 3.68 
+            text = "" 

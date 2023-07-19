@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.161 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.161 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.6 
+            text = "그건" 
+        intervals [3]:
+            xmin = 0.6 
+            xmax = 1 
+            text = "무조건" 
+        intervals [4]:
+            xmin = 1 
+            xmax = 1.13 
+            text = "끊어야" 
+        intervals [5]:
+            xmin = 1.13 
+            xmax = 1.71 
+            text = "된대" 
+        intervals [6]:
+            xmin = 1.71 
+            xmax = 2.161 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.161 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.23 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.23 
+            xmax = 0.28 
+            text = "ɨ" 
+        intervals [4]:
+            xmin = 0.28 
+            xmax = 0.31 
+            text = "ɡ" 
+        intervals [5]:
+            xmin = 0.31 
+            xmax = 0.45 
+            text = "ʌ" 
+        intervals [6]:
+            xmin = 0.45 
+            xmax = 0.6 
+            text = "n" 
+        intervals [7]:
+            xmin = 0.6 
+            xmax = 0.64 
+            text = "m" 
+        intervals [8]:
+            xmin = 0.64 
+            xmax = 0.7 
+            text = "u" 
+        intervals [9]:
+            xmin = 0.7 
+            xmax = 0.74 
+            text = "dʑ" 
+        intervals [10]:
+            xmin = 0.74 
+            xmax = 0.79 
+            text = "o" 
+        intervals [11]:
+            xmin = 0.79 
+            xmax = 0.91 
+            text = "k" 
+        intervals [12]:
+            xmin = 0.91 
+            xmax = 0.97 
+            text = "ʌ" 
+        intervals [13]:
+            xmin = 0.97 
+            xmax = 1 
+            text = "n" 
+        intervals [14]:
+            xmin = 1 
+            xmax = 1.13 
+            text = "spn" 
+        intervals [15]:
+            xmin = 1.13 
+            xmax = 1.71 
+            text = "spn" 
+        intervals [16]:
+            xmin = 1.71 
+            xmax = 2.161 
+            text = "" 

@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.703 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.703 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33 
+            text = "" 
+        intervals [2]:
+            xmin = 0.33 
+            xmax = 0.48 
+            text = "알아" 
+        intervals [3]:
+            xmin = 0.48 
+            xmax = 0.65 
+            text = "나" 
+        intervals [4]:
+            xmin = 0.65 
+            xmax = 0.97 
+            text = "넉" 
+        intervals [5]:
+            xmin = 0.97 
+            xmax = 1.43 
+            text = "" 
+        intervals [6]:
+            xmin = 1.43 
+            xmax = 1.55 
+            text = "아니" 
+        intervals [7]:
+            xmin = 1.55 
+            xmax = 1.89 
+            text = "학살" 
+        intervals [8]:
+            xmin = 1.89 
+            xmax = 2.37 
+            text = "알아" 
+        intervals [9]:
+            xmin = 2.37 
+            xmax = 2.703 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.703 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33 
+            text = "" 
+        intervals [2]:
+            xmin = 0.33 
+            xmax = 0.48 
+            text = "spn" 
+        intervals [3]:
+            xmin = 0.48 
+            xmax = 0.52 
+            text = "n" 
+        intervals [4]:
+            xmin = 0.52 
+            xmax = 0.65 
+            text = "ɐ" 
+        intervals [5]:
+            xmin = 0.65 
+            xmax = 0.73 
+            text = "n" 
+        intervals [6]:
+            xmin = 0.73 
+            xmax = 0.94 
+            text = "ʌː" 
+        intervals [7]:
+            xmin = 0.94 
+            xmax = 0.97 
+            text = "k̚" 
+        intervals [8]:
+            xmin = 0.97 
+            xmax = 1.43 
+            text = "" 
+        intervals [9]:
+            xmin = 1.43 
+            xmax = 1.49 
+            text = "ɐ" 
+        intervals [10]:
+            xmin = 1.49 
+            xmax = 1.52 
+            text = "n" 
+        intervals [11]:
+            xmin = 1.52 
+            xmax = 1.55 
+            text = "i" 
+        intervals [12]:
+            xmin = 1.55 
+            xmax = 1.61 
+            text = "h" 
+        intervals [13]:
+            xmin = 1.61 
+            xmax = 1.65 
+            text = "ɐ" 
+        intervals [14]:
+            xmin = 1.65 
+            xmax = 1.8 
+            text = "k" 
+        intervals [15]:
+            xmin = 1.8 
+            xmax = 1.81 
+            text = "s" 
+        intervals [16]:
+            xmin = 1.81 
+            xmax = 1.86 
+            text = "ɐ" 
+        intervals [17]:
+            xmin = 1.86 
+            xmax = 1.89 
+            text = "ɭ" 
+        intervals [18]:
+            xmin = 1.89 
+            xmax = 2.37 
+            text = "spn" 
+        intervals [19]:
+            xmin = 2.37 
+            xmax = 2.703 
+            text = "" 

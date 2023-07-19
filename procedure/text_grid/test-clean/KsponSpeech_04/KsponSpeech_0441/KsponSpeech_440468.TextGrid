@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.012 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.012 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.78 
+            text = "어벤저스에서" 
+        intervals [3]:
+            xmin = 0.78 
+            xmax = 1.16 
+            text = "엑스맨은" 
+        intervals [4]:
+            xmin = 1.16 
+            xmax = 1.27 
+            text = "안" 
+        intervals [5]:
+            xmin = 1.27 
+            xmax = 1.71 
+            text = "나오잖아" 
+        intervals [6]:
+            xmin = 1.71 
+            xmax = 2.012 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.012 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.78 
+            text = "spn" 
+        intervals [3]:
+            xmin = 0.78 
+            xmax = 1.16 
+            text = "spn" 
+        intervals [4]:
+            xmin = 1.16 
+            xmax = 1.19 
+            text = "ɐ" 
+        intervals [5]:
+            xmin = 1.19 
+            xmax = 1.27 
+            text = "n" 
+        intervals [6]:
+            xmin = 1.27 
+            xmax = 1.71 
+            text = "spn" 
+        intervals [7]:
+            xmin = 1.71 
+            xmax = 2.012 
+            text = "" 

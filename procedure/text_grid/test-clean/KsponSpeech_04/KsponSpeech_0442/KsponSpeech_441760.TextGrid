@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.358062 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.358062 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47 
+            text = "" 
+        intervals [2]:
+            xmin = 0.47 
+            xmax = 1.06 
+            text = "불러도" 
+        intervals [3]:
+            xmin = 1.06 
+            xmax = 1.15 
+            text = "" 
+        intervals [4]:
+            xmin = 1.15 
+            xmax = 1.19 
+            text = "대답도" 
+        intervals [5]:
+            xmin = 1.19 
+            xmax = 1.34 
+            text = "안" 
+        intervals [6]:
+            xmin = 1.34 
+            xmax = 1.74 
+            text = "하니까" 
+        intervals [7]:
+            xmin = 1.74 
+            xmax = 2.358062 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.358062 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47 
+            text = "" 
+        intervals [2]:
+            xmin = 0.47 
+            xmax = 1.06 
+            text = "spn" 
+        intervals [3]:
+            xmin = 1.06 
+            xmax = 1.15 
+            text = "" 
+        intervals [4]:
+            xmin = 1.15 
+            xmax = 1.19 
+            text = "spn" 
+        intervals [5]:
+            xmin = 1.19 
+            xmax = 1.28 
+            text = "ɐ" 
+        intervals [6]:
+            xmin = 1.28 
+            xmax = 1.34 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.34 
+            xmax = 1.35 
+            text = "h" 
+        intervals [8]:
+            xmin = 1.35 
+            xmax = 1.39 
+            text = "ɐ" 
+        intervals [9]:
+            xmin = 1.39 
+            xmax = 1.44 
+            text = "n" 
+        intervals [10]:
+            xmin = 1.44 
+            xmax = 1.5 
+            text = "i" 
+        intervals [11]:
+            xmin = 1.5 
+            xmax = 1.63 
+            text = "k͈" 
+        intervals [12]:
+            xmin = 1.63 
+            xmax = 1.74 
+            text = "ɐ" 
+        intervals [13]:
+            xmin = 1.74 
+            xmax = 2.358062 
+            text = "" 

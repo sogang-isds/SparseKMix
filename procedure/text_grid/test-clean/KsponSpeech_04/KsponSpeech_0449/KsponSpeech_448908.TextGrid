@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.477 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.477 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.46 
+            text = "응" 
+        intervals [3]:
+            xmin = 0.46 
+            xmax = 0.6 
+            text = "" 
+        intervals [4]:
+            xmin = 0.6 
+            xmax = 0.78 
+            text = "잘" 
+        intervals [5]:
+            xmin = 0.78 
+            xmax = 1.09 
+            text = "했어" 
+        intervals [6]:
+            xmin = 1.09 
+            xmax = 1.477 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.477 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.36 
+            text = "ɨ" 
+        intervals [3]:
+            xmin = 0.36 
+            xmax = 0.46 
+            text = "ŋ" 
+        intervals [4]:
+            xmin = 0.46 
+            xmax = 0.6 
+            text = "" 
+        intervals [5]:
+            xmin = 0.6 
+            xmax = 0.68 
+            text = "tɕ" 
+        intervals [6]:
+            xmin = 0.68 
+            xmax = 0.75 
+            text = "ɐ" 
+        intervals [7]:
+            xmin = 0.75 
+            xmax = 0.78 
+            text = "ɭ" 
+        intervals [8]:
+            xmin = 0.78 
+            xmax = 0.79 
+            text = "h" 
+        intervals [9]:
+            xmin = 0.79 
+            xmax = 0.85 
+            text = "ɛː" 
+        intervals [10]:
+            xmin = 0.85 
+            xmax = 1 
+            text = "s" 
+        intervals [11]:
+            xmin = 1 
+            xmax = 1.09 
+            text = "ʌ" 
+        intervals [12]:
+            xmin = 1.09 
+            xmax = 1.477 
+            text = "" 

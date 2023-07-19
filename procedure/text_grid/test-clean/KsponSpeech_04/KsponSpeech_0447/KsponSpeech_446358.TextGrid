@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.465 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.465 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4 
+            xmax = 0.56 
+            text = "일석이조지" 
+        intervals [3]:
+            xmin = 0.56 
+            xmax = 2.03 
+            text = "정전기도" 
+        intervals [4]:
+            xmin = 2.03 
+            xmax = 2.25 
+            text = "없고" 
+        intervals [5]:
+            xmin = 2.25 
+            xmax = 2.76 
+            text = "몸도" 
+        intervals [6]:
+            xmin = 2.76 
+            xmax = 3.09 
+            text = "" 
+        intervals [7]:
+            xmin = 3.09 
+            xmax = 3.74 
+            text = "뽀송해지고" 
+        intervals [8]:
+            xmin = 3.74 
+            xmax = 4.465 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.465 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4 
+            xmax = 0.56 
+            text = "spn" 
+        intervals [3]:
+            xmin = 0.56 
+            xmax = 2.03 
+            text = "spn" 
+        intervals [4]:
+            xmin = 2.03 
+            xmax = 2.06 
+            text = "ʌː" 
+        intervals [5]:
+            xmin = 2.06 
+            xmax = 2.09 
+            text = "p" 
+        intervals [6]:
+            xmin = 2.09 
+            xmax = 2.12 
+            text = "ɕ͈" 
+        intervals [7]:
+            xmin = 2.12 
+            xmax = 2.22 
+            text = "ɡ" 
+        intervals [8]:
+            xmin = 2.22 
+            xmax = 2.25 
+            text = "o" 
+        intervals [9]:
+            xmin = 2.25 
+            xmax = 2.35 
+            text = "m" 
+        intervals [10]:
+            xmin = 2.35 
+            xmax = 2.44 
+            text = "o" 
+        intervals [11]:
+            xmin = 2.44 
+            xmax = 2.57 
+            text = "m" 
+        intervals [12]:
+            xmin = 2.57 
+            xmax = 2.58 
+            text = "d" 
+        intervals [13]:
+            xmin = 2.58 
+            xmax = 2.76 
+            text = "o" 
+        intervals [14]:
+            xmin = 2.76 
+            xmax = 3.09 
+            text = "" 
+        intervals [15]:
+            xmin = 3.09 
+            xmax = 3.74 
+            text = "spn" 
+        intervals [16]:
+            xmin = 3.74 
+            xmax = 4.465 
+            text = "" 

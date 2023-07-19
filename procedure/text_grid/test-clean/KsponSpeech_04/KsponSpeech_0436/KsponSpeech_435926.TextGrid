@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.374 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.374 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55 
+            text = "" 
+        intervals [2]:
+            xmin = 0.55 
+            xmax = 0.77 
+            text = "형" 
+        intervals [3]:
+            xmin = 0.77 
+            xmax = 1.3 
+            text = "여기" 
+        intervals [4]:
+            xmin = 1.3 
+            xmax = 1.35 
+            text = "" 
+        intervals [5]:
+            xmin = 1.35 
+            xmax = 1.75 
+            text = "있잖아" 
+        intervals [6]:
+            xmin = 1.75 
+            xmax = 2.374 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.374 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55 
+            text = "" 
+        intervals [2]:
+            xmin = 0.55 
+            xmax = 0.67 
+            text = "ç" 
+        intervals [3]:
+            xmin = 0.67 
+            xmax = 0.7 
+            text = "ʌ" 
+        intervals [4]:
+            xmin = 0.7 
+            xmax = 0.77 
+            text = "ŋ" 
+        intervals [5]:
+            xmin = 0.77 
+            xmax = 0.84 
+            text = "j" 
+        intervals [6]:
+            xmin = 0.84 
+            xmax = 0.93 
+            text = "ʌ" 
+        intervals [7]:
+            xmin = 0.93 
+            xmax = 1.05 
+            text = "ɡ" 
+        intervals [8]:
+            xmin = 1.05 
+            xmax = 1.3 
+            text = "i" 
+        intervals [9]:
+            xmin = 1.3 
+            xmax = 1.35 
+            text = "" 
+        intervals [10]:
+            xmin = 1.35 
+            xmax = 1.75 
+            text = "spn" 
+        intervals [11]:
+            xmin = 1.75 
+            xmax = 2.374 
+            text = "" 

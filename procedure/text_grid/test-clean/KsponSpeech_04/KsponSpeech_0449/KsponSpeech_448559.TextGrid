@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.140062 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.140062 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.16 
+            text = "" 
+        intervals [2]:
+            xmin = 1.16 
+            xmax = 1.47 
+            text = "사회자도" 
+        intervals [3]:
+            xmin = 1.47 
+            xmax = 1.88 
+            text = "아니던데" 
+        intervals [4]:
+            xmin = 1.88 
+            xmax = 2.23 
+            text = "" 
+        intervals [5]:
+            xmin = 2.23 
+            xmax = 2.67 
+            text = "보니까" 
+        intervals [6]:
+            xmin = 2.67 
+            xmax = 4.140062 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.140062 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.16 
+            text = "" 
+        intervals [2]:
+            xmin = 1.16 
+            xmax = 1.47 
+            text = "spn" 
+        intervals [3]:
+            xmin = 1.47 
+            xmax = 1.88 
+            text = "spn" 
+        intervals [4]:
+            xmin = 1.88 
+            xmax = 2.23 
+            text = "" 
+        intervals [5]:
+            xmin = 2.23 
+            xmax = 2.31 
+            text = "p" 
+        intervals [6]:
+            xmin = 2.31 
+            xmax = 2.34 
+            text = "o" 
+        intervals [7]:
+            xmin = 2.34 
+            xmax = 2.38 
+            text = "n" 
+        intervals [8]:
+            xmin = 2.38 
+            xmax = 2.43 
+            text = "i" 
+        intervals [9]:
+            xmin = 2.43 
+            xmax = 2.61 
+            text = "k͈" 
+        intervals [10]:
+            xmin = 2.61 
+            xmax = 2.67 
+            text = "ɐ" 
+        intervals [11]:
+            xmin = 2.67 
+            xmax = 4.140062 
+            text = "" 

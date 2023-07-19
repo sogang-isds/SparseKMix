@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.958 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.958 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3 
+            xmax = 0.53 
+            text = "나는" 
+        intervals [3]:
+            xmin = 0.53 
+            xmax = 0.8 
+            text = "속이" 
+        intervals [4]:
+            xmin = 0.8 
+            xmax = 1.35 
+            text = "쓰리는데" 
+        intervals [5]:
+            xmin = 1.35 
+            xmax = 1.958 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.958 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3 
+            xmax = 0.33 
+            text = "n" 
+        intervals [3]:
+            xmin = 0.33 
+            xmax = 0.38 
+            text = "ɐ" 
+        intervals [4]:
+            xmin = 0.38 
+            xmax = 0.42 
+            text = "n" 
+        intervals [5]:
+            xmin = 0.42 
+            xmax = 0.5 
+            text = "ɨ" 
+        intervals [6]:
+            xmin = 0.5 
+            xmax = 0.53 
+            text = "n" 
+        intervals [7]:
+            xmin = 0.53 
+            xmax = 0.63 
+            text = "sʰ" 
+        intervals [8]:
+            xmin = 0.63 
+            xmax = 0.69 
+            text = "o" 
+        intervals [9]:
+            xmin = 0.69 
+            xmax = 0.73 
+            text = "ɡ" 
+        intervals [10]:
+            xmin = 0.73 
+            xmax = 0.8 
+            text = "i" 
+        intervals [11]:
+            xmin = 0.8 
+            xmax = 1.35 
+            text = "spn" 
+        intervals [12]:
+            xmin = 1.35 
+            xmax = 1.958 
+            text = "" 
