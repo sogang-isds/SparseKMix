@@ -8,9 +8,9 @@ import pyloudnorm
 from scipy.signal import resample_poly
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--json", default ='../metadata/sparse_2_0/metadata.json')
+parser.add_argument("--json", default ='metadata/sparse_2_0/metadata.json')
 parser.add_argument("--wav_dir", default='/home/private_data/KoreanSpeech/test-clean')
-parser.add_argument('--out_dir', default= '../storage_dir/sparse_2_0',help='output data dir of mixture')
+parser.add_argument('--out_dir', default= 'storage_dir/sparse_2_0',help='output data dir of mixture')
 parser.add_argument("--noise_dir", type=str, default="/home/private_data/wham_noise/cv")
 parser.add_argument('--rate', type=int, default=16000,
                     help='sampling rate')
@@ -46,8 +46,8 @@ def resample_and_norm(signal, orig, target, lvl):
 
 for spk_ in args.n_speakers:
     for index_ in args.ovr_ratio:
-        args.json = '../metadata/sparse_{}_{}/metadata.json'.format(spk_ , index_)
-        args.out_dir = '../storage_dir/sparse_{}_{}'.format(spk_, index_)
+        args.json = 'metadata/sparse_{}_{}/metadata.json'.format(spk_ , index_)
+        args.out_dir = 'storage_dir/sparse_{}_{}'.format(spk_, index_)
 
         if not args.noise_dir:
             print("Generating only clean version")
