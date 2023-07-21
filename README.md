@@ -1,14 +1,21 @@
 # SparseKMix
 - KMix로 train한 single channel speech separation model evaluation 데이터셋 생성 SW입니다.
+
 - 실제 중첩음과 유사한 인공 중첩음 데이터로 모델을 평가하기 위해 제작되었습니다.
 
+- 생성에 필요한 metadata를 포함한 레포지토리 입니다.
 
+  
 
-작성중..
+## How To Run
 
+```bash
+git clone https://github.com/sogang-isds/SparseKMix.git
+cd SparseKMix
+pip install -r requirements.txt
 
-
-
+./create_sparse.sh # path/to/SparseKMix/storage_dir에 생성됨
+```
 
 
 
@@ -57,5 +64,18 @@ korean_mfa(음향모델)
 
 mfa align /home/private_data/KoreanSpeech/test-clean(코퍼스 경로) korean_mfa(발음사전) korean_mfa(음향
 모델) /home/(user_id)/path/to/SparseKMix/procedure/text_grid --clean
+```
+
+### 3. Create metadata
+
+이후 **SparseKMix/scripts** 경로로 이동한 뒤 아래 명령어를 실행시키면 metadata 생성이 완료됩니다.
+
+```bash
+pip install -r requirements.txt
+cd scripts
+
+python parse_utterances.py
+python generate_metadata_no_overlap.py
+python generate_metadata_overlap.py
 ```
 
